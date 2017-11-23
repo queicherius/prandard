@@ -1,0 +1,15 @@
+{
+  "name": "prandard",
+  "version": "1.0.1",
+  "description": "prettier + standard in one tiny command",
+  "bin": {
+    "prandard": "./run.sh"
+  },
+  "repository": "https://github.com/queicherius/prandard",
+  "author": "queicherius@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "prettier": "*",
+    "standard": "*"
+  }
+}
