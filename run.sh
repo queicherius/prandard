@@ -7,5 +7,5 @@ if [ $2 ];
 fi
 
 echo "Running prandard for '$GLOB'"
-prettier --print-width 100 --no-semi --single-quote --no-bracket-spacing --write $GLOB
-standard --fix $GLOB
+prettier --print-width 100 --no-semi --single-quote --no-bracket-spacing --write "$GLOB"
+standard --fix "$GLOB"
