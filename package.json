@@ -1,6 +1,6 @@
 {
   "name": "prandard",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "prettier + standard in one tiny command",
   "bin": {
     "prandard": "./run.sh"
